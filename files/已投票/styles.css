@@ -1124,3 +1124,19 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u4784 {
+  position:absolute;
+  left:34px;
+  top:424px;
+  width:481px;
+  height:66px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u4784_ann {
+  position:absolute;
+  left:508px;
+  top:420px;
+  width:1px;
+  height:1px;
+}
