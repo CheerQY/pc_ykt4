@@ -12,14 +12,14 @@
   position:absolute;
   z-index:0;
 }
-.u2130 {
+.u2080 {
   position:absolute;
   left:0px;
   top:0px;
   width:0px;
   height:0px;
 }
-.u2131_div {
+.u2081_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -36,14 +36,14 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-.u2131 {
+.u2081 {
   position:absolute;
   left:10px;
   top:10px;
   width:160px;
   height:160px;
 }
-.u2131_div.selected {
+.u2081_div.selected {
   position:absolute;
   left:0px;
   top:0px;
@@ -60,9 +60,9 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-.u2131.selected {
+.u2081.selected {
 }
-.u2132 {
+.u2082 {
   position:absolute;
   left:2px;
   top:72px;
@@ -70,21 +70,21 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-.u2133_img {
+.u2083_img {
   position:absolute;
   left:0px;
   top:0px;
   width:60px;
   height:60px;
 }
-.u2133 {
+.u2083 {
   position:absolute;
   left:54px;
   top:47px;
   width:60px;
   height:60px;
 }
-.u2134 {
+.u2084 {
   position:absolute;
   left:2px;
   top:22px;
@@ -92,7 +92,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-.u2135_div {
+.u2085_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -106,70 +106,70 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-.u2135 {
+.u2085 {
   position:absolute;
   left:55px;
   top:128px;
   width:57px;
   height:16px;
 }
-.u2136 {
+.u2086 {
   position:absolute;
   left:0px;
   top:0px;
   width:57px;
   white-space:nowrap;
 }
-#u2129-1 {
+#u2079-1 {
   position:absolute;
   left:0px;
   top:0px;
   width:170px;
   height:170px;
 }
-#u2129-2 {
+#u2079-2 {
   position:absolute;
   left:170px;
   top:0px;
   width:170px;
   height:170px;
 }
-#u2129-3 {
+#u2079-3 {
   position:absolute;
   left:340px;
   top:0px;
   width:170px;
   height:170px;
 }
-#u2129-4 {
+#u2079-4 {
   position:absolute;
   left:0px;
   top:170px;
   width:170px;
   height:170px;
 }
-#u2129-5 {
+#u2079-5 {
   position:absolute;
   left:170px;
   top:170px;
   width:170px;
   height:170px;
 }
-#u2129-6 {
+#u2079-6 {
   position:absolute;
   left:340px;
   top:170px;
   width:170px;
   height:170px;
 }
-#u2129-7 {
+#u2079-7 {
   position:absolute;
   left:0px;
   top:340px;
   width:170px;
   height:170px;
 }
-#u2129 {
+#u2079 {
   position:absolute;
   left:8px;
   top:1px;
@@ -180,7 +180,7 @@
   border:none;
   border-radius:0px;
 }
-#u2129_ann {
+#u2079_ann {
   position:absolute;
   left:511px;
   top:-3px;
